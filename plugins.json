@@ -1,0 +1,149 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ahdzero.com&sz=%size%",
+        "fileHash": "sha256-51b9366e37e5c3dabde0feb728c4d90a397ca3e7c3030a968ca7c893ab757744",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 24258,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "popo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 4,
+        "internalName": "AHDZero",
+        "description": "AHDZero \u0e2d\u0e19\u0e34\u0e40\u0e21\u0e30 \u0e1e\u0e32\u0e01\u0e22\u0e4c\u0e44\u0e17\u0e22 \u0e0b\u0e31\u0e1a\u0e44\u0e17\u0e22",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/AHDZero.cs3",
+        "name": "AHDZero"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=037-hdd.com&sz=%size%",
+        "fileHash": "sha256-734e5c623d7f995749bff1bd179ca8f8475e5272adc6d8e0857f782a25a4b337",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 43566,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "popo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "ExampleProvider",
+        "description": "037-HDD \u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e2d\u0e19\u0e34\u0e40\u0e21\u0e30",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movie2freehd.com&sz=%size%",
+        "fileHash": "sha256-64bd9f43bce51108f238e47f0775fdef2f84c04bc2b495e6c3f2dd2d9520ae7b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 38761,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "jasdwa22"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Movie2FreeHD",
+        "description": "Movie2FreeHD \u0e2b\u0e19\u0e31\u0e07\u0e41\u0e25\u0e30\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e1e\u0e32\u0e01\u0e22\u0e4c\u0e44\u0e17\u0e22/\u0e0b\u0e31\u0e1a\u0e44\u0e17\u0e22",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/Movie2FreeHD.cs3",
+        "name": "Movie2FreeHD"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=moviedofree.com&sz=%size%",
+        "fileHash": "sha256-155f2be05f370a0870b2c100b1d40fb7f8d707f2ce1729dac0916b02ae158047",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 18476,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "popo"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "MovieDoFree",
+        "description": "Moviedofree \u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/MovieDoFree.cs3",
+        "name": "MovieDoFree"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nekomiku.net&sz=%size%",
+        "fileHash": "sha256-41baa0bc511eeeb01fc49a6ac9b8d3fe8f424debbfe41f7450584c16ce1d1544",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 60114,
+        "status": 3,
+        "language": "th",
+        "authors": [
+            "jasdwa22"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 7,
+        "internalName": "ThaiAnime",
+        "description": "Neko-Miku, AnimeRuka, Suba-Anime \u0e41\u0e25\u0e30 Anime-Waku (\u0e17\u0e14\u0e25\u0e2d\u0e07: \u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19\u0e02\u0e36\u0e49\u0e19\u0e01\u0e31\u0e1a\u0e42\u0e2e\u0e2a\u0e15\u0e4c\u0e27\u0e34\u0e14\u0e35\u0e42\u0e2d)",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/ThaiAnime.cs3",
+        "name": "ThaiAnime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=25-hd.com&sz=%size%",
+        "fileHash": "sha256-c08f3fa34a9555f25a30ddc0bf6937d5e64d677faf961b809565cd97b984c72e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 41388,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "popo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "TwentyFiveHD",
+        "description": "25-HD \u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e41\u0e25\u0e30\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/TwentyFiveHD.cs3",
+        "name": "TwentyFiveHD"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=24hd.today&sz=%size%",
+        "fileHash": "sha256-a6cf9a838c1a455cfeb2a604935b58510243fc578d839a135d91384fc7400283",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jasdwa22/037bb",
+        "fileSize": 28781,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "popo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "TwentyFourHD",
+        "description": "24HD \u0e2b\u0e19\u0e31\u0e07\u0e41\u0e25\u0e30\u0e0b\u0e35\u0e23\u0e35\u0e48\u0e22\u0e4c",
+        "url": "https://raw.githubusercontent.com/jasdwa22/037bb/builds/TwentyFourHD.cs3",
+        "name": "TwentyFourHD"
+    }
+]
